@@ -40,3 +40,5 @@ testem.log
 Thumbs.db
 
 *.js.map
+*.component.js
+.editorconfig
